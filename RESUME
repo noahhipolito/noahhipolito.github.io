@@ -7,10 +7,6 @@
 #B {height: 200px; width: 30%; position: static; opacity: 0.6; background-color: white; float: left; margin-top: 2%; color: white; font-family: Century Gothic; font-size: 15px; }
 #C {height: 200px; width: 67%; position: static; opacity: 0.6; background-color: white; float: left; margin-left: 2%; margin-top: 2%; color: white; font-family: Century Gothic; font-size: 18px; }
 
-</style>
-<body background="C:\Users\HP\Desktop\Background.jpg">
-<br><center><img src="C:\Users\HP\Desktop\ME.jpg"></center>
-
 <div id="B"> <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Noah A. Hipolito<br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A.K.A <font size="7"> Noah</b></font><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp Age: 17<br>
