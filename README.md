@@ -5,29 +5,35 @@
 <BODY> 
 <H1>Noah Hipolito</H1> 
 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TF><TD ALIGN=”left”>12013 Future Drive</TD> 
+<style>
+table, th, td {border: 1px solid black;}
+</style>
+
+<TABLE> 
+<TD ALIGN=”left”>12013 Future Drive</TD> 
 <TD ALIGN=”right”>Residence (305) 555-1212</TD></TR> 
-<TF><TD ALIGN=”left”>New York, NY 10019</TD> 
+<TD ALIGN=”left”>New York, NY 10019</TD> </TR>
 <TD ALIGN=”right”>Message (305) 555-1213</TD></TR> 
-</TD></TR> 
 <TD ALIGN=”right”>Email: hipolitonoah@gmail.com </TD></TR> 
-</TD></TR></TABLE> 
+</TABLE> 
 
 <H2>Objective</H2> 
 
-<TABLE><TR><TD>&nbsp;</TD> 
+<TABLE><TR>
 <TD>To experience work immersion with a modern company where my passion, school learned skills
 and interent in dentistry may be enchanced and practiced to help me in my future
 collecge program, Doctor of dental medicine</TD></TR></TABLE> 
-<H2>Sales Experience</H2> 
-<H3>March 2013 to Present</H3> 
-<TABLE><TR><TD>&nbsp;</TD> 
 
+<H2>Sales Experience</H2> 
+
+<H3>March 2013 to Present</H3> 
+
+<TABLE><TR><TD>&nbsp;</TD> 
 <TD>Commissioned Salesperson — Fine Jewelry<BR> 
 Macy’s Department Store, New York, New York<UL> 
 <LI>Sell men’s and women’s jewelry, develop positive customer relations, provide sales promotion support for upper management, and maintain a product inventory worth up to $3 million.</LI> 
 <LI>Achieved 100 percent or more of sales quota since employed.</LI></UL></TD></TR></TABLE> 
+
 <H3>May 1990 to November 2012</H3> 
 
 <TABLE><TR><TD>&nbsp;</TD> 
