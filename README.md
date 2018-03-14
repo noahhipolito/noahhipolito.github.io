@@ -3,7 +3,7 @@
 <TITLE>Eriel jose santos</TITLE> 
 </HEAD> 
 <BODY BGCOLOR=”#FFFFFF”> 
-<H1>Hunter S. Jobseeker</H1> 
+<H1>Eriel Jose Santos</H1> 
 <TABLE WIDTH=”100%”> 
 <TF><TD ALIGN=”left”>12013 Future Drive</TD> 
 <TD ALIGN=”right”>Residence (305) 555-1212</TD></TR> 
