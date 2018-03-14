@@ -22,17 +22,17 @@ need to load. You'll see here a lot of <link>s to CSS files for styles and
 
 
 <body>
-  <section class=”about-me”>
+
        <h1> Your Name </h1>
 
-  <section class=”my-skills”>
+
        <h2> Summary of Skills</h2>
 
-  <section class=”my-work-experience”>
        <h2>Work Experience</h2>
     
-  <section class=”my-education”>
+
        <h2>Education</h2>
-  </section>
+       
+
 </body>
 </html>
