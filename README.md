@@ -12,6 +12,7 @@
 <TD ALIGN=”right”>Message (305) 555-1213</TD></TR> 
 </TD></TR> 
 <TD ALIGN=”right”>Email: hipolitonoah@gmail.com </TD></TR> 
+</TD></TR></TABLE> 
 
 <H2>Objective</H2> 
 
