@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<html>
 <!--This is an HTML document. -->
 
 <!-- beginning of head
