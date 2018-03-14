@@ -5,16 +5,13 @@
 <BODY> 
 <H1>Noah Hipolito</H1> 
 
-<style>
-table, th, td {border: 1px solid black;}
-</style>
 
 <TABLE> 
-<TD ALIGN=”left”>12013 Future Drive</TD> 
-<TD ALIGN=”right”>Residence (305) 555-1212</TD></TR> 
-<TD ALIGN=”left”>New York, NY 10019</TD> </TR>
-<TD ALIGN=”right”>Message (305) 555-1213</TD></TR> 
-<TD ALIGN=”right”>Email: hipolitonoah@gmail.com </TD></TR> 
+<UL><LI>Noah A. Hipolito</LI> 
+<LI>Aquamarine St. Golden Ville</LI> 
+<LI>Subdivision Malolos, Bulacan</LI> 
+<LI>09357061948</LI>
+<LI>hipolitonoah@gmail.com</LI></UL>
 </TABLE> 
 
 <H2>Objective</H2> 
@@ -55,11 +52,18 @@ Holy Spirit Acadmemy of Malolos<BR>
 
 <H2>Education</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
-<TD>Bachelor of Arts in Biology — December 1989 
-<BR>Columbia University<BR> 
-GPA: 3.5/4.0</TD></TR></TABLE> 
+<TD>Junior High School<BR>
+St. Mary's College of Quezon City<BR> 
+37 Mother Ignacia Avenue, Diliman, Quezon City, 1103 Metro Manila<BR> 
+June-March 2013 <br><br>
+
+Holy Spirit Academy of Malolos<br>
+Bagong Bayan, City of Malolos, Bulacan
+June 2014- present</TD></TR></TABLE> 
 
 <H2>Reference</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
-<TD>          </TD></TR></TABLE></BODY> 
+<TD> Mr.Arvin Dizon <br>
+Holy Spirit Academy of Malolos<br>
+vindizon05@gmail.com 0919-296-1265</TD></TR></TABLE></BODY> 
 </HTML>
