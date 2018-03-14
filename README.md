@@ -19,10 +19,9 @@ need to load. You'll see here a lot of <link>s to CSS files for styles and
 
   <meta name="viewport" content="width=device-width">
 
-<!-- end of head →
 </head>
 
-<!-- beginning of body→
+
 <body>
   <section class=”about-me”>
        <h1> Your Name </h1>
@@ -37,7 +36,4 @@ need to load. You'll see here a lot of <link>s to CSS files for styles and
        <h2>Education</h2>
   </section>
 </body>
-<!-- beginning of body→
-
-<!-- end of html→
 </html>
