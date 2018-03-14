@@ -17,7 +17,9 @@
 <H2>Objective</H2> 
 
 <TABLE><TR><TD>&nbsp;</TD> 
-<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE> 
+<TD>To experience work immersion with a modern company where my passion, school learned skills
+and interent in dentistry may be enchanced and practiced to help me in my future
+collecge program, Doctor of dental medicine</TD></TR></TABLE> 
 <H2>Sales Experience</H2> 
 <H3>March 2013 to Present</H3> 
 <TABLE><TR><TD>&nbsp;</TD> 
