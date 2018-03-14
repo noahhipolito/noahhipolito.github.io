@@ -5,7 +5,7 @@
 <BODY> 
 <H1>Noah Hipolito</H1> 
 
-<body background="6dfc94abb216a1fcd7f77246b085f934--pastel-wallpaper-screensaver.jpg">
+<body background="w3s.png">
 
 <TABLE> 
 <UL><LI>Noah A. Hipolito</LI> 
@@ -21,6 +21,8 @@
 <TD>To experience work immersion with a modern company where my passion, school learned skills
 and interent in dentistry may be enchanced and practiced to help me in my future
 collecge program, Doctor of dental medicine</TD></TR></TABLE> 
+
+<br><br>	
 
 <H2>Seminar Attended</H2> 
 
@@ -45,11 +47,15 @@ Mr. Cha N. Dela Pena<UL>
 Holy Spirit Acadmemy of Malolos<BR>
 </UL></TD></TR></TABLE>
 
+<br><Br>
+
 <H2>Special Skills</H2>  
 <UL><LI>Emphatic listener</LI> 
 <LI>Inegration Goal for harmonios collaboration into performance plans</LI> 
 <LI>Knowledge in the use of MS Word</LI> 
 <LI>Commited to submit in deadlines</LI></UL>
+
+<br><br>
 
 <H2>Education</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
@@ -61,6 +67,8 @@ June-March 2013 <br><br>
 Holy Spirit Academy of Malolos<br>
 Bagong Bayan, City of Malolos, Bulacan
 June 2014- present</TD></TR></TABLE> 
+
+<br><br>
 
 <H2>Reference</H2> 
 <TABLE><TR><TD>&nbsp;</TD> 
