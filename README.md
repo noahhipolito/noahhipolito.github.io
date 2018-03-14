@@ -5,7 +5,7 @@
 <BODY> 
 <H1>Noah Hipolito</H1> 
 
-<body background="w3s.png">
+<body background="6dfc94abb216a1fcd7f77246b085f934--pastel-wallpaper-screensaver.jpg">
 
 <TABLE> 
 <UL><LI>Noah A. Hipolito</LI> 
