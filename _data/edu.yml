@@ -1,0 +1,22 @@
+- title: Indian Institute of Information Technology, Vadodara
+  deg: B Tech
+  startTime: 2014
+  endTime: Present
+  courses:
+    - Computer Networks
+    - Computer Organisation
+    - Digital Logic Design
+    - Calculus
+    - DBMS
+    - Algorithms
+
+- title: Gyan Niketan, Patna
+  deg: 10+2
+  startTime: 2012
+  endTime: 2014
+  courses:
+    - Physics
+    - Chemistry
+    - Mathematics
+    - English
+    - Computer Science
