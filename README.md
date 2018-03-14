@@ -1,42 +1,42 @@
-<HTML> 
-<HEAD> 
-<TITLE>Eriel jose santos</TITLE> 
-</HEAD> 
-<BODY BGCOLOR=”#FFFFFF”> 
-<H1>Eriel Jose Santos</H1> 
-<TABLE WIDTH=”100%”> 
-<TF><TD ALIGN=”left”>12013 Future Drive</TD> 
-<TD ALIGN=”right”>Residence (305) 555-1212</TD></TR> 
-<TF><TD ALIGN=”left”>New York, NY 10019</TD> 
-<TD ALIGN=”right”>Message (305) 555-1213</TD></TR> 
-</TD></TR> 
-<TD ALIGN=”right”>Email: jobseeker@internet.com</TD></TR> 
-<H2>Objective</H2> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Marketing, public relations or sales position with a medical equipment company.</TD></TR></TABLE> 
-<H2>Sales Experience</H2> 
-<H3>March 2013 to Present</H3> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Commissioned Salesperson — Fine Jewelry<BR> 
-Macy’s Department Store, New York, New York<UL> 
-<LI>Sell men’s and women’s jewelry, develop positive customer relations, provide sales promotion support for upper management, and maintain a product inventory worth up to $3 million.</LI> 
-<LI>Achieved 100 percent or more of sales quota since employed.</LI></UL></TD></TR></TABLE> 
-<H3>May 1990 to November 2012</H3> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Commissioned Salesperson — Men’s Suits<BR> 
-Barney’s, New York, New York<UL><LI> 
-Sold men’s suits, established customer relations, handled staff scheduling duties, and ordered merchandise. kept track of market trends and effectively reformatted the store’s accounting system as it pertained to this department.</LI> 
-<LI>Ranked first, second, or third in every sales program during period of employment.</LI></UL></TD></TR></TABLE> 
-<H2>Additional Experience</H2> 
-<H3>June 1987 to November 1989</H3> 
-<UL><LI>Part-time and summer employment experience: Zoo Worker, Bronx Zoo, New York, summer 1987.</LI> 
-<LI>Word Processor and Medical Records Assistant, Mercy Hospital, New York, September 1987 – November 1989.</LI></UL> 
-<H2>Education</H2> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Bachelor of Arts in Biology — December 1989 
-<BR>Columbia University<BR> 
-GPA: 3.5/4.0</TD></TR></TABLE> 
-<H2>Activities</H2> 
-<TABLE><TR><TD>&nbsp;</TD> 
-<TD>Vice President 1989, Social Chair 1987, Pi Beta Phi Sorority</TD></TR></TABLE></BODY> 
-</HTML>
+<!DOCTYPE HTML>
+<!-- Original design: https://html5up.net/aerial -->
+<!-- Background: http://bennettfeely.com/gradients/ -->
+<html>
+	<head>
+		<title>Emily Black</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+	</head>
+	<body class="loading">
+		<div id="wrapper">
+			<div id="bg"></div>
+			<div id="main">
+
+			<!-- Header -->
+				<header id="header">
+					<h1>Emily Black</h1>
+					<p>Coder &nbsp;&bull;&nbsp; Gamer &nbsp;&bull;&nbsp; Thinker</p>
+					<nav>
+						<ul>
+							<li><a href="EmilyBlackResume.pdf" class="icon fa-file-text"><span class="label">Resume</span></a></li>
+							<li><a href="https://github.com/EmilyBlack95" class="icon fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="https://linkedin.com/in/EmilyBlack95/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
+							<li><a href="mailto:emily@ou.edu" class="icon fa-envelope"><span class="label">Email</span></a></li>
+						</ul>
+					</nav>
+				</header>
+			</div>
+		</div>
+		<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+		<script>
+			window.onload = function() { document.body.className = ''; }
+			window.ontouchmove = function() { return false; }
+			window.onorientationchange = function() { document.body.scrollTop = 0; }
+		</script>
+	</body>
+</html>
