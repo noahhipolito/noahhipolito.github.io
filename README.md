@@ -1,51 +1,43 @@
-<html><head>
-	 <!-- This tells the browser how to read the document. -->
-	 <meta charset="utf-8">
-	
-	 <!-- Tells the browser what the title of this page should be. -->
-	 <title>Resume:John Matthew M. Vinuya</title>
-	
-	 <!-- Load the page styles. -->
-	 <link href="matthewvinuya.github.io/style.css" rel="stylesheet">
-	
-	 <meta name="viewport" content="width=device-width">
-	
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css"></head>
-	
-	
-	
-	<body class="body" background="grey.jpg">
-	
-	
-	 <p id="home">
-	  </p><div class="menu">	
-		
-		<ul class="menustyle"> 
-			
-		<li class="list" style="background-color: #b7362a color: white"><a href="index.html"> HOME</a></li>
-	 <li class="list"><a href="skills.html">SKILLS</a> </li>
-		<li class="list"><a href="education.html">EDUCATION</a> </li>
-		
-	
-	 </ul>
-		  
-	 </div>
-	 <p></p>
-	 <br><br>
-	 <section>
-	
-	 <div>
-		<img src=" matthewvinuya.github.io/profile.jpg " class="picture">
-	
-	 <h1 class="name"> John Matthew M. Vinuya </h1>
-	 <ul class="bodytext">
-	 <li> #202 Palmera St., Brgy. Cofradia, Malolos, Bulacan</li> 
-	 <li><p style="text-align:left">0917-941-7529 </p></li>
-	 <li><p style="text-align:left"> matthewvinuya98@gmail.com</p></li>
-	 </ul>
-	 </div></section>
+<!DOCTYPE html>
+<!--This is an HTML document. -->
 
-	
-	
-	
-</body></html>
+<!-- beginning of head
+The <head> of a website generally links to important resources the page will
+need to load. You'll see here a lot of <link>s to CSS files for styles and
+<scripts> for JavaScript files to build interactions.
+→
+
+<head>
+  <!-- This tells the browser how to read the document. -->
+  <meta charset="utf-8">
+
+  <!-- Tells the browser what the title of this page should be. -->
+  <title>Resume: First Name Last Name</title>
+
+  <!-- Load the page styles. -->
+  <link href="style.css" rel="stylesheet">
+
+  <meta name="viewport" content="width=device-width">
+
+<!-- end of head →
+</head>
+
+<!-- beginning of body→
+<body>
+  <section class=”about-me”>
+       <h1> Your Name </h1>
+  </section>
+  <section class=”my-skills”>
+       <h2> Summary of Skills</h2>
+  </section>
+  <section class=”my-work-experience”>
+       <h2>Work Experience</h2>
+  </section>
+  <section class=”my-education”>
+       <h2>Education</h2>
+  </section>
+</body>
+<!-- beginning of body→
+
+<!-- end of html→
+</html>
