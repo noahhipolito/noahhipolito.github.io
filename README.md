@@ -11,8 +11,7 @@
 
 <TABLE> 
 <UL><LI>Noah A. Hipolito</LI> 
-<LI>Aquamarine St. Golden Ville</LI> 
-<LI>Subdivision Malolos, Bulacan</LI> 
+<LI>Aquamarine St. Golden Ville Subdivision Malolos, Bulacan</LI> 
 <LI>09357061948</LI>
 <LI>hipolitonoah@gmail.com</LI></UL>
 </TABLE> 
@@ -20,9 +19,9 @@
 <H2>Objective</H2> 
 
 <TABLE><TR>
-<TD>To experience work immersion with a modern company where my passion, school learned skills
+<TD>To experience work  with a modern company where my passion, school learned skills
 and interent in dentistry may be enchanced and practiced to help me in my future
-collecge program, Doctor of dental medicine</TD></TR></TABLE> 
+college program, Doctor of dental medicine</TD></TR></TABLE> 
 
 <br><br>	
 
