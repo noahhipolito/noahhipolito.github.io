@@ -5,7 +5,7 @@
 <BODY> 
 <H1>Noah Hipolito</H1> 
   
- <img src="26165573_1945593208791180_2024528927452748118_n.jpg" width="500" height="377">
+ <img src="26165573_1945593208791180_2024528927452748118_n.jpg" width="500" height="377" align="right">
 
 <body background="6dfc94abb216a1fcd7f77246b085f934--pastel-wallpaper-screensaver.jpg">
 
